@@ -71,3 +71,25 @@ Aqui estão as dependências necessárias para rodar o projeto. Você pode geren
         <version>1.0.0</version>
     </dependency>
 </dependencies>
+
+``` 
+## Como Contribuir
+
+Se você deseja contribuir para este projeto, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua funcionalidade ou correção de bug.
+3. Realize as mudanças e commit.
+4. Abra um Pull Request com a descrição clara das alterações.
+5. Teste as alterações para garantir que o projeto funcione como esperado.
+[Voltar ao Índice](#índice)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](Licenca.md)
+[Voltar ao Índice](#índice)
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, fique à vontade para me contactar:
+[Voltar ao Índice](#índice)
